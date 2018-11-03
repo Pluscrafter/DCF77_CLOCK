@@ -14095,11 +14095,6 @@ Lectureship           dozent-rb:  &lt;a href="http://www.dozent-rb.de/" target="
 <junction x="-81.28" y="-15.24"/>
 <label x="-81.28" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="PB5(SCK)"/>
-<wire x1="27.94" y1="22.86" x2="33.02" y2="22.86" width="0.1524" layer="91"/>
-<label x="27.94" y="22.86" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="CLOCK" class="0">
 <segment>
@@ -14121,11 +14116,6 @@ Lectureship           dozent-rb:  &lt;a href="http://www.dozent-rb.de/" target="
 <junction x="-78.74" y="-7.62"/>
 <label x="-78.74" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="PB4(MISO)"/>
-<wire x1="27.94" y1="25.4" x2="33.02" y2="25.4" width="0.1524" layer="91"/>
-<label x="27.94" y="25.4" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="DATA" class="0">
 <segment>
@@ -14133,11 +14123,6 @@ Lectureship           dozent-rb:  &lt;a href="http://www.dozent-rb.de/" target="
 <label x="-76.2" y="7.62" size="1.778" layer="95" rot="R90"/>
 <wire x1="-73.66" y1="-2.54" x2="-76.2" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="-76.2" y1="-2.54" x2="-76.2" y2="7.62" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="PB3(MOSI/OC2)"/>
-<wire x1="27.94" y1="27.94" x2="33.02" y2="27.94" width="0.1524" layer="91"/>
-<label x="27.94" y="27.94" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="QOUT" class="0">
