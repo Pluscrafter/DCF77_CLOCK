@@ -1,0 +1,21 @@
+Circuit: * D:\Pluscrafter\Documents\DCF77_CLOCK\555Sweep.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Nov 03 23:07:18 2018
+Total elapsed time: 1.022 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 743755
+traniter = 743747
+tranpoints = 157959
+accept = 120958
+rejected = 37001
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1:      24 opcodes  0.1/[0.0]/0.1
+Matrix Compiler2: 776 bytes object code size  0.1/0.1/[0.1]
+
